@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cb89475f672cb7cc6e1fcd0042bad0f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9c5915cb1c5c603da8ccc5cb75f6582\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\00dc2ae30c73ac2ffd5b31dba2eaa554\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5ed92fa6840e5e1de9254de42cd07499\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\df699aa1e868bd79a44fcd713359dd0e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7434cbdf758e7a57da998e5312e10d79\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1900d5aaf962a30e65d7dfac7653cee2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d846aa1eca8dfa7891d02e6c75e25b9f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1c831f18cd8f6ddc2433358585daba70\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\092bda5da1894bed172b4a17580b372c\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cb89475f672cb7cc6e1fcd0042bad0f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cb89475f672cb7cc6e1fcd0042bad0f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9c5915cb1c5c603da8ccc5cb75f6582\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9c5915cb1c5c603da8ccc5cb75f6582\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\00dc2ae30c73ac2ffd5b31dba2eaa554\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\00dc2ae30c73ac2ffd5b31dba2eaa554\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5ed92fa6840e5e1de9254de42cd07499\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5ed92fa6840e5e1de9254de42cd07499\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\df699aa1e868bd79a44fcd713359dd0e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\df699aa1e868bd79a44fcd713359dd0e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7434cbdf758e7a57da998e5312e10d79\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7434cbdf758e7a57da998e5312e10d79\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1900d5aaf962a30e65d7dfac7653cee2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1900d5aaf962a30e65d7dfac7653cee2\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d846aa1eca8dfa7891d02e6c75e25b9f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d846aa1eca8dfa7891d02e6c75e25b9f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1c831f18cd8f6ddc2433358585daba70\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1c831f18cd8f6ddc2433358585daba70\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\092bda5da1894bed172b4a17580b372c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\092bda5da1894bed172b4a17580b372c\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.handsome.bitmapcompress.MainActivity
+ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cb89475f672cb7cc6e1fcd0042bad0f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cb89475f672cb7cc6e1fcd0042bad0f\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9c5915cb1c5c603da8ccc5cb75f6582\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\c9c5915cb1c5c603da8ccc5cb75f6582\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\00dc2ae30c73ac2ffd5b31dba2eaa554\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\00dc2ae30c73ac2ffd5b31dba2eaa554\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5ed92fa6840e5e1de9254de42cd07499\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5ed92fa6840e5e1de9254de42cd07499\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\df699aa1e868bd79a44fcd713359dd0e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\df699aa1e868bd79a44fcd713359dd0e\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7434cbdf758e7a57da998e5312e10d79\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7434cbdf758e7a57da998e5312e10d79\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1900d5aaf962a30e65d7dfac7653cee2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1900d5aaf962a30e65d7dfac7653cee2\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d846aa1eca8dfa7891d02e6c75e25b9f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d846aa1eca8dfa7891d02e6c75e25b9f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1c831f18cd8f6ddc2433358585daba70\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1c831f18cd8f6ddc2433358585daba70\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\092bda5da1894bed172b4a17580b372c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\092bda5da1894bed172b4a17580b372c\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cb89475f672cb7cc6e1fcd0042bad0f\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\Desktop\BitmapCompress-master\BitmapCompress-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cb89475f672cb7cc6e1fcd0042bad0f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\00dc2ae30c73ac2ffd5b31dba2eaa554\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\00dc2ae30c73ac2ffd5b31dba2eaa554\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5ed92fa6840e5e1de9254de42cd07499\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\5ed92fa6840e5e1de9254de42cd07499\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\df699aa1e868bd79a44fcd713359dd0e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\df699aa1e868bd79a44fcd713359dd0e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7434cbdf758e7a57da998e5312e10d79\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\7434cbdf758e7a57da998e5312e10d79\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1900d5aaf962a30e65d7dfac7653cee2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1900d5aaf962a30e65d7dfac7653cee2\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d846aa1eca8dfa7891d02e6c75e25b9f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\d846aa1eca8dfa7891d02e6c75e25b9f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1c831f18cd8f6ddc2433358585daba70\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\1c831f18cd8f6ddc2433358585daba70\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\092bda5da1894bed172b4a17580b372c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\092bda5da1894bed172b4a17580b372c\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cb89475f672cb7cc6e1fcd0042bad0f\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Administrator\.gradle\caches\transforms-2\files-2.1\9cb89475f672cb7cc6e1fcd0042bad0f\AndroidManifest.xml:26:9-47
